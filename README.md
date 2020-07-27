@@ -9,7 +9,7 @@ That's where this Autohotkey script comes in, merging multiple existing sources 
 
 ## Sources:
 
-- [My Reddit help thread](https://www.reddit.com/r/AutoHotkey/comments/hyunqw/pls_help_merging_2_scripts_doubleclick_to_go_up_a/)
+- [My Reddit help thread; many thanks to G1ZM02K for helping me solve some problems](https://www.reddit.com/r/AutoHotkey/comments/hyunqw/pls_help_merging_2_scripts_doubleclick_to_go_up_a/)
 - [Double-click Desktop to toggle hide all icons, AHK forum](https://autohotkey.com/board/topic/46689-my-first-script-for-hidding-desktop-icons/)
 - [Double-click to go up a folder level, AHK forum](https://www.autohotkey.com/boards/viewtopic.php?t=31517)
 - [Detect empty desktop area, AHK forum](https://autohotkey.com/board/topic/82196-solved-double-click-on-the-desktop/page-2)
